@@ -1,4 +1,13 @@
 sceneSetups:
-- path: Assets/_scenes/turrets game screen.unity
+- path: Assets/_scenes/logo.unity
   isLoaded: 1
   isActive: 1
+- path: Assets/_scenes/title.unity
+  isLoaded: 1
+  isActive: 0
+- path: Assets/_scenes/turrets game screen.unity
+  isLoaded: 1
+  isActive: 0
+- path: Assets/_scenes/gameover.unity
+  isLoaded: 1
+  isActive: 0

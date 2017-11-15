@@ -51,9 +51,14 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\scripts\Aim.cs" />
-     <Compile Include="Assets\scripts\PlayerControler.cs" />
+     <Compile Include="Assets\scripts\AnimationController.cs" />
+     <Compile Include="Assets\scripts\DestroyonColiision.cs" />
+     <Compile Include="Assets\scripts\KeyStateMapping.cs" />
+     <Compile Include="Assets\scripts\Move.cs" />
      <Compile Include="Assets\scripts\playerhealth.cs" />
+     <Compile Include="Assets\scripts\Rotate.cs" />
+     <Compile Include="Assets\scripts\spawn_.cs" />
+     <Compile Include="Assets\scripts\SpawnBullet.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
