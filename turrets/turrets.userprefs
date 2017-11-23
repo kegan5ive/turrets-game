@@ -1,10 +1,10 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
   <MonoDevelop.Ide.Workbench ActiveDocument="Assets\scripts\playerhealth.cs">
     <Files>
       <File FileName="Assets\scripts\SpawnBullet.cs" Line="1" Column="1" />
       <File FileName="Assets\scripts\Move.cs" Line="1" Column="1" />
-      <File FileName="Assets\scripts\playerhealth.cs" Line="15" Column="6" />
+      <File FileName="Assets\scripts\playerhealth.cs" Line="22" Column="6" />
       <File FileName="Assets\scripts\Rotate.cs" Line="1" Column="1" />
       <File FileName="Assets\scripts\spawn_.cs" Line="1" Column="1" />
       <File FileName="Assets\scripts\DestroyonColiision.cs" Line="1" Column="1" />
