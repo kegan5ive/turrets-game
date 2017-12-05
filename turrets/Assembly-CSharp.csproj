@@ -53,10 +53,13 @@
   <ItemGroup>
      <Compile Include="Assets\scripts\AnimationController.cs" />
      <Compile Include="Assets\scripts\DestroyonColiision.cs" />
+     <Compile Include="Assets\scripts\DontDestroy.cs" />
      <Compile Include="Assets\scripts\KeyStateMapping.cs" />
+     <Compile Include="Assets\scripts\Lancher.cs" />
      <Compile Include="Assets\scripts\Move.cs" />
      <Compile Include="Assets\scripts\playerhealth.cs" />
      <Compile Include="Assets\scripts\Rotate.cs" />
+     <Compile Include="Assets\scripts\SceneLoader.cs" />
      <Compile Include="Assets\scripts\spawn_.cs" />
      <Compile Include="Assets\scripts\SpawnBullet.cs" />
  <Reference Include="UnityEngine.UI">

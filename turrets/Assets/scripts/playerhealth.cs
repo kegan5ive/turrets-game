@@ -7,17 +7,14 @@ public class playerhealth : MonoBehaviour {
 	public int health = 3;
     public string ColliderTag;
 
-    private Animator animate;
-    void Start() 
-    {
-        animate = GetComponent<Animator>();
-    }
+    public Animator animate;
+
     void OnCollisionEnter2D(Collision2D collision)
     {
         if (collision.collider.tag == ColliderTag)
         {
             health--;
-            animate.SetBool("Tank_Damage", true);
+            animate.SetTrigger("Damage");
         }
     }
 
@@ -26,8 +23,7 @@ public class playerhealth : MonoBehaviour {
         if (collider.tag == ColliderTag)
         {
             health--;
-            animate.SetBool("Tank_Damage", true);
+            animate.SetTrigger("Damage");
         }
-	//whiteflash
     }
 }

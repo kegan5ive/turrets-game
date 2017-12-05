@@ -4,4 +4,19 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/_scenes/_intailization.unity
+    guid: 38e10bb928539bb4d93872cc04adaa98
+  - enabled: 1
+    path: Assets/_scenes/logo.unity
+    guid: fc750385955e8ae429da4fd4e42b0916
+  - enabled: 1
+    path: Assets/_scenes/title.unity
+    guid: 7229798b003feb44c97b6901f5a8498c
+  - enabled: 1
+    path: Assets/_scenes/turrets game screen.unity
+    guid: 74828d3c3856f8947a7a587b30128405
+  - enabled: 1
+    path: Assets/_scenes/gameover.unity
+    guid: 262dbba64e433f24eb4d1673536b298b
