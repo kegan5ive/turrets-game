@@ -135,7 +135,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 929fd88311d1f5e40b405341416e3cb3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  StartingScene: logo
+  StartingScene: turrets game screen
 --- !u!4 &1351366949
 Transform:
   m_ObjectHideFlags: 0

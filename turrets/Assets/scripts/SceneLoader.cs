@@ -6,7 +6,7 @@ using UnityEngine.SceneManagement;
 public class SceneLoader : MonoBehaviour 
 {
     public string SceneToLoad = "";
-    public double Delay = 0;
+    public float Delay = 0;
 
     private double ElapsedTime = 0;
 
